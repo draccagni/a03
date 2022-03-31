@@ -1,0 +1,6 @@
+a03.swing.plaf.A03SwingUIPlugin,
+a03.swing.plugin.A03FadeTrackerPlugin,
+a03.swing.plugin.A03EdtCheckerPlugin,
+a03.swing.plugin.A03FocusTrackerPlugin,
+a03.swing.plugin.A03ToolTipManagerPlugin,
+a03.swing.plugin.A03CursorManagerPlugin
